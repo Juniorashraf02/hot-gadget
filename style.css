@@ -1,7 +1,16 @@
-.logo img{
-    width: 50px;
-    height: 50px;
-}
+
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 30px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.see-all{
+    color: orangered;
+}
+.center{
+    text-align: center;
+}
+p{
+    color: gray;
 }
