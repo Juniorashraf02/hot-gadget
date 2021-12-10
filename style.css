@@ -5,8 +5,11 @@
 .carousel-item{
     padding: 20px 40px;
 }
+.card{
+    box-shadow: 2px 2px 20px gray;
+}
 .see-all{
-    color: orangered;
+    color: orange;
 }
 .center{
     text-align: center;
@@ -19,4 +22,28 @@ p{
     width: 5%;
     background-color: green;
     border-radius: 5px;
+}
+.d{
+    width: 65%;
+}
+.bag{
+    margin: 10%;
+    box-shadow: 2px 2px 20px gray;
+}
+.e img{
+    width: 50%;
+    padding: 2%;
+    margin-left: 25%;
+
+}
+.btn-link{
+    text-decoration: none;
+    color: orange;
+}
+
+.bg-light{
+    background-color: #fff!important;
+}
+footer{
+    text-align: center;
 }
